@@ -36,11 +36,16 @@ h2
 }
 #img
 {
- width: 100px;
- height: 100px;
+ width: 500px;
+ height: 200px;
 }
-#dog ,#bird,#tiger{
-    width: 100px;
-    height: 100px;
 
+h1 {
+    
+
+    text-align: center;
+    margin-top: 1px;
 }
+
+
+   
