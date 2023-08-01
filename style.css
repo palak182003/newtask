@@ -1,0 +1,46 @@
+
+body
+{
+    background-color: antiquewhite;
+    background-attachment: fixed;
+    margin: 2px;
+    
+
+}
+
+.element
+{
+    padding:4px;
+    border:2px solid gray;
+margin:5px;
+}
+form
+{
+    background-color: rgba(210, 40, 151, 0.49);
+
+     padding: 10px  ; 
+   margin: 30%; 
+   height: 27%;
+   width: 24%;
+}
+h2
+{
+    text-align: center;
+    margin-top: 1px;
+   
+}
+#Create
+{
+    padding: 5px;
+    border: 2px solid gray;
+}
+#img
+{
+ width: 100px;
+ height: 100px;
+}
+#dog ,#bird,#tiger{
+    width: 100px;
+    height: 100px;
+
+}
